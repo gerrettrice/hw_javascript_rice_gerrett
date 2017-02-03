@@ -5,3 +5,11 @@ president1 = {
     party: 'Democrat',
     yearsOfPresidency: 8,
 };
+
+president2 = {
+    firstName: 'George',
+    lastName: 'Bush',
+    termLength: 2,
+    party: 'Republican',
+    yearsOfPresidency: 8,
+};
