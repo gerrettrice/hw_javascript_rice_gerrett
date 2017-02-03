@@ -29,3 +29,11 @@ president4 = {
     party: 'Republican',
     yearsOfPresidency: 4,
 };
+
+president5 = {
+    firstName: 'Ronald',
+    lastName: 'Reagan',
+    termLength: 2,
+    party: 'Republican',
+    yearsOfPresidency: 8,
+};
