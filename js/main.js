@@ -5,3 +5,5 @@ var presidents = [
     {firstName: 'George', lastName: 'Bush', termLength: 1, party: 'Republican', yearsOfPresidency: 4},
     {firstName: 'Ronald', lastName: 'Reagan', termLength: 2, party: 'Republican', yearsOfPresidency: 8}
 ];
+
+console.log(presidents[2].firstName + ' ' + presidents[2].lastName);
